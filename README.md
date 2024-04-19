@@ -1,5 +1,4 @@
 
-```markdown
 # Calculadora en C#
 
 Este es un simple proyecto de calculadora desarrollado en C# utilizando Windows Forms.
