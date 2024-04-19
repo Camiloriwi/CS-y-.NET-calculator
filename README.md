@@ -1,49 +1,52 @@
 
-# Calculadora en C#
+Este archivo `README.md` proporciona una visión general del proyecto, explica cómo usarlo y cómo ejecutarlo, y también invita a otros a contribuir al proyecto si así lo desean.
 
-Este es un simple proyecto de calculadora desarrollado en C# utilizando Windows Forms.
 
-## Descripción del Proyecto
+# Calculator in C#
 
-El proyecto consiste en una calculadora básica que realiza operaciones aritméticas simples como suma, resta, multiplicación y división. Utiliza una interfaz gráfica de usuario (GUI) proporcionada por Windows Forms.
+This is a simple calculator project developed in C# using Windows Forms.
 
-## Funcionalidades
+## Project Description
 
-- Suma
-- Resta
-- Multiplicación
-- División
-- Borrado de pantalla
+The project consists of a basic calculator that performs simple arithmetic operations such as addition, subtraction, multiplication, and division. It utilizes a graphical user interface (GUI) provided by Windows Forms.
 
-## Uso del Código
+## Features
 
-El código proporcionado en este proyecto es bastante intuitivo y fácil de entender. Aquí hay una breve descripción de cómo funciona:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Clear screen
 
-- **Form1.cs**: Contiene la lógica principal de la calculadora.
-  - Incluye métodos para manejar eventos de clic de botón.
-  - Implementa operaciones aritméticas básicas.
-  - Utiliza MessageBox para mostrar definiciones de términos técnicos relacionados con la programación.
+## Code Usage
 
-## Cómo Ejecutar el Proyecto
+The code provided in this project is quite intuitive and easy to understand. Here's a brief description of how it works:
 
-1. Clona este repositorio en tu máquina local.
+- **Form1.cs**: Contains the main logic of the calculator.
+  - Includes methods to handle button click events.
+  - Implements basic arithmetic operations.
+  - Uses MessageBox to display definitions of technical terms related to programming.
+
+## How to Run the Project
+
+1. Clone this repository to your local machine.
 ```bash
-  git clone  https://github.com/Camiloriwi/CS-y-.NET-calculator.git
+  git clone https://github.com/Camiloriwi/CS-y-.NET-calculator.git
 ```
-2. Abre el proyecto en Visual Studio.
-3. Compila y ejecuta el proyecto.
+2. Open the project in Visual Studio.
+3. Build and run the project.
+ 
+## Screenshots
+Insert screenshots of the calculator in action here, if necessary.
 
-## Capturas de Pantalla
+## Contributions
+Contributions are welcome. If you have any suggestions for improvement or want to add new features, feel free to submit a pull request!
 
-_Inserta capturas de pantalla de la calculadora en acción aquí, si es necesario._
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si tienes alguna sugerencia de mejora o deseas agregar nuevas características, ¡no dudes en enviar una solicitud de extracción!
-
-## Licencia
-
-Este proyecto está bajo la Licencia [MIT](https://opensource.org/licenses/MIT) - consulta el archivo `LICENSE` para más detalles.
+## License
+This project is licensed under the MIT License - see the LICENSE file for more details.
 ```
 
-Este archivo `README.md` proporciona una visión general del proyecto, explica cómo usarlo y cómo ejecutarlo, y también invita a otros a contribuir al proyecto si así lo desean. 
+This README.md file provides a description of the project, its features, how to use the code, how to run the project, and invites contributions from others. 
+
+
+
