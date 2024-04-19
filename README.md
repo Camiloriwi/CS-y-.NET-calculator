@@ -1,4 +1,3 @@
-Aquí tienes un archivo `README.md` para tu proyecto:
 
 ```markdown
 # Calculadora en C#
@@ -29,6 +28,9 @@ El código proporcionado en este proyecto es bastante intuitivo y fácil de ente
 ## Cómo Ejecutar el Proyecto
 
 1. Clona este repositorio en tu máquina local.
+```bash
+  git clone  https://github.com/Camiloriwi/CS-y-.NET-calculator.git
+```
 2. Abre el proyecto en Visual Studio.
 3. Compila y ejecuta el proyecto.
 
@@ -45,4 +47,4 @@ Las contribuciones son bienvenidas. Si tienes alguna sugerencia de mejora o dese
 Este proyecto está bajo la Licencia [MIT](https://opensource.org/licenses/MIT) - consulta el archivo `LICENSE` para más detalles.
 ```
 
-Este archivo `README.md` proporciona una visión general del proyecto, explica cómo usarlo y cómo ejecutarlo, y también invita a otros a contribuir al proyecto si así lo desean. ¡Espero que te resulte útil! Si necesitas algo más, no dudes en preguntar.
+Este archivo `README.md` proporciona una visión general del proyecto, explica cómo usarlo y cómo ejecutarlo, y también invita a otros a contribuir al proyecto si así lo desean. 
